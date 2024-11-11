@@ -1,2 +1,2 @@
 # API-Tester-Tool
-A Tool for sending example API get requests
+A Tool for sending HTTP get requests to test APIs
